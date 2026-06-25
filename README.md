@@ -1,116 +1,190 @@
-# Hi, I'm Chibuike Henry 👋
+<p align="center">
+  <img src="portfolio-banner.png" width="100%">
+</p>
 
-I am a Procurement, Supply Chain, and Operations Professional with over 12 years of experience managing international sourcing, logistics, inventory, supplier relationships, and business operations across the industrial materials and steel products sector.
+# Supply Chain & Operations Analytics Portfolio
 
-With a background in Mechanical Engineering and a Master's degree in Management, I combine operational expertise with Business Intelligence and Data Analytics to support data-driven decision-making, improve operational performance, and solve business problems.
+<p align="center">
 
-Over the years, I have managed procurement activities, coordinated import and export operations, overseen inventory planning, supervised business operations, and worked closely with suppliers, logistics partners, and stakeholders to drive business growth and operational efficiency.
+## **Power BI • SQL • Python • Excel • DAX • Power Query**
 
-To complement my operational experience, I have developed practical skills in Power BI, SQL, Excel, Python, and Business Intelligence, enabling me to transform business data into actionable insights and performance-driven solutions.
+Building business intelligence solutions that transform raw operational data into actionable insights.
 
----
-
-# Core Expertise
-
-- Supply Chain Management
-- Procurement & Strategic Sourcing
-- Logistics & Import/Export Operations
-- Inventory Planning & Warehouse Management
-- Operations Management
-- Vendor & Supplier Management
-- KPI Development & Performance Reporting
-- Business Intelligence & Data Analytics
+</p>
 
 ---
 
-## 🛠️ Tools & Technologies
+# 👋 About Me
 
-| Tool | Skills |
-|------|--------|
-| **Excel** | Data Analysis, KPI Reporting, Business Reporting |
-| **Power BI** | Data Modeling, DAX, Interactive Dashboards |
-| **SQL** | Querying, Data Extraction, Aggregation |
-| **Python** | Data Analysis, Data Visualization |
-| **Tableau** | Dashboarding & Business Reporting |
+Hello! I'm **Chibuike Henry**, a Data Analyst with a background in **Mechanical Engineering** and **Business Management**.
 
----
+I specialize in designing interactive Power BI dashboards and analytical solutions that help organizations make informed business decisions through data.
 
-# Current Analytics Portfolio Focus
+My projects focus on:
 
-I am currently building a specialized Supply Chain & Operations Analytics Portfolio focused on:
-
-- Procurement Performance Analytics
-- Inventory Management Analytics
-- Supply Chain Performance Dashboards
-- Import & Export Analytics
-- Warehouse Operations Analytics
-
-These projects combine my operational experience with analytics and business intelligence to solve real-world business problems.
+* Supply Chain Analytics
+* Procurement Analytics
+* Inventory Management
+* Warehouse Operations
+* Business Intelligence
+* KPI Reporting
+* Executive Dashboards
 
 ---
 
-## 📊 Business Analytics Projects
+# 🛠 Tech Stack
 
-### 🛒 Retail Sales Performance Dashboard — Excel
-Interactive dashboard analyzing 1,200 retail transactions (2023–2024).
-- $218K revenue | 43% profit margin | +5% YoY growth
-- Pivot Tables, PivotCharts, 4 interactive Slicers
-- 🔗 [View Repository](https://github.com/CHI-analytics/retail-sales-dashboard-excel)
+<p>
 
----
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 
-### Customer Churn Analysis — Excel & Power BI
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-- 🔗 [View Repository](https://github.com/CHI-analytics/customer-churn-retention-analysis)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
----
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
 
-### 💼 Business Budget Analysis — Python
-Budget vs actual performance across 6 departments over 2 years.
-- Revenue beat budget by +9.4% | All 6 depts overspent costs
-- pandas, matplotlib, seaborn
-- 🔗 [View Repository](https://github.com/CHI-analytics/business-budget-analysis-python)
+![DAX](https://img.shields.io/badge/DAX-0176D3?style=for-the-badge)
 
----
+![Power Query](https://img.shields.io/badge/Power_Query-742774?style=for-the-badge)
 
-### Online Retail Analytics
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
-- 🔗 [View Repository](https://github.com/CHI-analytics/online-retail-python-analysis)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+</p>
 
 ---
 
-### Sales Performance Analysis
+# 📊 Featured Projects
 
-- 🔗 [View Repository](https://github.com/CHI-analytics/sales-performance-analysis)
+## 1️⃣ Procurement Performance Dashboard
 
----
+![Procurement Dashboard](Procurement-Performance-Dashboard/Procurement_Performance_Dashboard.png)
 
-## 🎯 What I Focus On
+**Business Focus**
 
-> **The chart is 20% of the work. The business insight is 80%.**
+Procurement spending, supplier analysis, purchasing trends, procurement KPIs and executive reporting.
 
-I don't just visualize data, I answer business questions with it.
-Every project includes a problem statement, methodology, 
-key findings, and business recommendations.
+**Skills**
 
----
+Power BI • DAX • Power Query • Data Modeling
 
-## Professional Background
+➡️ **Project Folder**
 
-🎓 BEng Mechanical Engineering
-
-🎓 MSc Management
-
-📊 Business Intelligence & Data Analytics
-
-🚢 Procurement, Supply Chain & Logistics
-
-📦 Inventory & Warehouse Operations
-
-📈 Data-Driven Decision Making
+`Procurement-Performance-Dashboard`
 
 ---
 
-## 📬 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/chibuike-henry-igwebuike)
-- 📁 [GitHub](https://github.com/CHI-analytics)
+## 2️⃣ Inventory Management Dashboard
+
+![Inventory Dashboard](Inventory-Management-Dashboard/Inventory_Management_Dashboard.png)
+
+**Business Focus**
+
+Inventory valuation, stock monitoring, inventory turnover, warehouse inventory and stock optimization.
+
+**Skills**
+
+Power BI • Inventory Analytics • KPI Reporting • Dashboard Design
+
+➡️ **Project Folder**
+
+`Inventory-Management-Dashboard`
+
+---
+
+## 3️⃣ Warehouse Operations Dashboard
+
+![Warehouse Dashboard](Warehouse-Operations-Analytics/Warehouse_Operations_Dashboard.png)
+
+**Business Focus**
+
+Warehouse productivity, order processing, shipping performance and operational efficiency.
+
+**Skills**
+
+Warehouse Analytics • Logistics Analytics • Power BI • DAX
+
+➡️ **Project Folder**
+
+`Warehouse-Operations-Analytics`
+
+---
+
+## 4️⃣ Supply Chain Performance Dashboard
+
+![Supply Chain Dashboard](Supply-Chain-Performance-Dashboard/Supply_Chain_Performance_Dashboard.png)
+
+**Business Focus**
+
+End-to-end supply chain analytics covering procurement, suppliers, logistics, inventory and warehouse performance.
+
+**Skills**
+
+Supply Chain Analytics • Executive Reporting • KPI Development • Business Intelligence
+
+➡️ **Project Folder**
+
+`Supply-Chain-Performance-Dashboard`
+
+---
+
+# 📈 Core Analytics Skills
+
+✅ Data Cleaning
+
+✅ Data Transformation
+
+✅ Data Modeling
+
+✅ Power Query
+
+✅ DAX Measures
+
+✅ Dashboard Design
+
+✅ KPI Development
+
+✅ Business Intelligence
+
+✅ Data Visualization
+
+✅ Procurement Analytics
+
+✅ Inventory Analytics
+
+✅ Warehouse Analytics
+
+✅ Supply Chain Analytics
+
+---
+
+# 🎯 Current Learning Journey
+
+I continuously improve my analytical skills through hands-on business projects using real-world datasets.
+
+Current areas of focus include:
+
+* Advanced DAX
+* SQL Analytics
+* Python for Data Analysis
+* Supply Chain Analytics
+* Business Intelligence
+* Executive Dashboard Design
+
+---
+
+# 📬 Connect With Me
+
+### GitHub
+
+https://github.com/CHI-analytics
+
+### LinkedIn
+
+https://www.linkedin.com/in/chibuike-henry-igwebuike/
+
+---
+
+⭐ If you found these projects interesting, feel free to explore the dashboards and connect with me.
