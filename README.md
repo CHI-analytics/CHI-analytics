@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./portfolio-banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/CHI-analytics/Supply-Chain-and-Operations-Analytics-Portfolio/main/portfolio-banner.png" width="100%">
 </p>
 
 # Supply Chain & Operations Analytics Portfolio
