@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="portfolio-banner.png" width="100%">
+  <img src="./portfolio-banner.png" width="100%">
 </p>
 
 # Supply Chain & Operations Analytics Portfolio
