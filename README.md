@@ -4,31 +4,27 @@
 
 # Supply Chain & Operations Analytics Portfolio
 
-<p align="center">
+## Power BI • SQL • Python • Excel • DAX • Power Query
 
-## **Power BI • SQL • Python • Excel • DAX • Power Query**
-
-Building business intelligence solutions that transform raw operational data into actionable insights.
-
-</p>
+Building business intelligence solutions that transform operational data into actionable business insights through interactive dashboards, KPI reporting, and analytics.
 
 ---
 
 # 👋 About Me
 
-Hello! I'm **Chibuike Henry**, a Data Analyst with a background in **Mechanical Engineering** and **Business Management**.
+Hello! I'm **Chibuike Henry Igwebuike**, a Data Analyst with academic backgrounds in **Mechanical Engineering** and **Business Management**.
 
-I specialize in designing interactive Power BI dashboards and analytical solutions that help organizations make informed business decisions through data.
+I build business intelligence solutions using Power BI, SQL, Excel, Python, DAX, and Power Query to help organizations monitor performance, optimize operations, and make data-driven decisions.
 
-My projects focus on:
+My portfolio focuses on:
 
-* Supply Chain Analytics
-* Procurement Analytics
-* Inventory Management
-* Warehouse Operations
-* Business Intelligence
-* KPI Reporting
-* Executive Dashboards
+- Supply Chain Analytics
+- Procurement Analytics
+- Inventory Management
+- Warehouse Operations
+- Business Intelligence
+- KPI Reporting
+- Executive Dashboards
 
 ---
 
@@ -36,21 +32,14 @@ My projects focus on:
 
 <p>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-0176D3?style=for-the-badge)
-
 ![Power Query](https://img.shields.io/badge/Power_Query-742774?style=for-the-badge)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </p>
 
@@ -60,103 +49,91 @@ My projects focus on:
 
 ## 1️⃣ Procurement Performance Dashboard
 
-![Procurement Dashboard](Procurement-Performance-Dashboard/Procurement_Performance_Dashboard.png)
+![Procurement Dashboard](https://raw.githubusercontent.com/CHI-analytics/Supply-Chain-and-Operations-Analytics-Portfolio/main/Procurement-Performance-Dashboard/Procurement_Performance_Dashboard.png)
 
 **Business Focus**
 
-Procurement spending, supplier analysis, purchasing trends, procurement KPIs and executive reporting.
+Procurement spending analysis, supplier performance, purchasing trends, procurement KPIs, and executive reporting.
 
 **Skills**
 
 Power BI • DAX • Power Query • Data Modeling
 
-➡️ **Project Folder**
+🔗 **Project Repository**
 
-`Procurement-Performance-Dashboard`
+https://github.com/CHI-analytics/Supply-Chain-and-Operations-Analytics-Portfolio/tree/main/Procurement-Performance-Dashboard
 
 ---
 
 ## 2️⃣ Inventory Management Dashboard
 
-![Inventory Dashboard](Inventory-Management-Dashboard/Inventory_Management_Dashboard.png)
+![Inventory Dashboard](https://raw.githubusercontent.com/CHI-analytics/Supply-Chain-and-Operations-Analytics-Portfolio/main/Inventory-Management-Dashboard/Inventory_Management_Dashboard.png)
 
 **Business Focus**
 
-Inventory valuation, stock monitoring, inventory turnover, warehouse inventory and stock optimization.
+Inventory valuation, stock monitoring, inventory turnover, warehouse inventory, and stock optimization.
 
 **Skills**
 
 Power BI • Inventory Analytics • KPI Reporting • Dashboard Design
 
-➡️ **Project Folder**
+🔗 **Project Repository**
 
-`Inventory-Management-Dashboard`
+https://github.com/CHI-analytics/Supply-Chain-and-Operations-Analytics-Portfolio/tree/main/Inventory-Management-Dashboard
 
 ---
 
 ## 3️⃣ Warehouse Operations Dashboard
 
-![Warehouse Dashboard](Warehouse-Operations-Analytics/Warehouse_Operations_Dashboard.png)
+![Warehouse Dashboard](https://raw.githubusercontent.com/CHI-analytics/Supply-Chain-and-Operations-Analytics-Portfolio/main/Warehouse-Operations-Analytics/Warehouse_Operations_Dashboard.png)
 
 **Business Focus**
 
-Warehouse productivity, order processing, shipping performance and operational efficiency.
+Warehouse productivity, order processing, shipping performance, and operational efficiency.
 
 **Skills**
 
 Warehouse Analytics • Logistics Analytics • Power BI • DAX
 
-➡️ **Project Folder**
+🔗 **Project Repository**
 
-`Warehouse-Operations-Analytics`
+https://github.com/CHI-analytics/Supply-Chain-and-Operations-Analytics-Portfolio/tree/main/Warehouse-Operations-Analytics
 
 ---
 
 ## 4️⃣ Supply Chain Performance Dashboard
 
-![Supply Chain Dashboard](Supply-Chain-Performance-Dashboard/Supply_Chain_Performance_Dashboard.png)
+![Supply Chain Dashboard](https://raw.githubusercontent.com/CHI-analytics/Supply-Chain-and-Operations-Analytics-Portfolio/main/Supply-Chain-Performance-Dashboard/Supply_Chain_Performance_Dashboard.png)
 
 **Business Focus**
 
-End-to-end supply chain analytics covering procurement, suppliers, logistics, inventory and warehouse performance.
+End-to-end supply chain analytics covering procurement, suppliers, logistics, inventory, and warehouse performance.
 
 **Skills**
 
 Supply Chain Analytics • Executive Reporting • KPI Development • Business Intelligence
 
-➡️ **Project Folder**
+🔗 **Project Repository**
 
-`Supply-Chain-Performance-Dashboard`
+https://github.com/CHI-analytics/Supply-Chain-and-Operations-Analytics-Portfolio/tree/main/Supply-Chain-Performance-Dashboard
 
 ---
 
 # 📈 Core Analytics Skills
 
-✅ Data Cleaning
-
-✅ Data Transformation
-
-✅ Data Modeling
-
-✅ Power Query
-
-✅ DAX Measures
-
-✅ Dashboard Design
-
-✅ KPI Development
-
-✅ Business Intelligence
-
-✅ Data Visualization
-
-✅ Procurement Analytics
-
-✅ Inventory Analytics
-
-✅ Warehouse Analytics
-
-✅ Supply Chain Analytics
+- ✅ Data Cleaning
+- ✅ Data Transformation
+- ✅ Data Modeling
+- ✅ Power Query
+- ✅ DAX Measures
+- ✅ Dashboard Design
+- ✅ KPI Development
+- ✅ Business Intelligence
+- ✅ Data Visualization
+- ✅ Procurement Analytics
+- ✅ Inventory Analytics
+- ✅ Warehouse Analytics
+- ✅ Supply Chain Analytics
 
 ---
 
@@ -164,14 +141,14 @@ Supply Chain Analytics • Executive Reporting • KPI Development • Business 
 
 I continuously improve my analytical skills through hands-on business projects using real-world datasets.
 
-Current areas of focus include:
+Currently expanding my expertise in:
 
-* Advanced DAX
-* SQL Analytics
-* Python for Data Analysis
-* Supply Chain Analytics
-* Business Intelligence
-* Executive Dashboard Design
+- Advanced DAX
+- SQL Analytics
+- Python for Data Analysis
+- Supply Chain Analytics
+- Business Intelligence
+- Executive Dashboard Design
 
 ---
 
@@ -187,4 +164,5 @@ https://www.linkedin.com/in/chibuike-henry-igwebuike/
 
 ---
 
-⭐ If you found these projects interesting, feel free to explore the dashboards and connect with me.
+⭐ Thank you for visiting my portfolio. Feel free to explore the projects, review the dashboards, and connect with me on LinkedIn.
+```
